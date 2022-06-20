@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
-http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
-http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
-http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
-http://140.207.241.2:8080/live/program/live/cctv2/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
-http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
@@ -72,7 +60,7 @@ http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
-http://140.207.241.2:8080/live/program/live/cctvxw/1300000/mnf.m3u8
+https://live-play.cctvnews.cctv.com/cctv/merge8.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
 http://140.207.241.2:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
@@ -225,33 +213,5 @@ http://140.207.241.2:8080/live/program/live/jxwshd/4000000/mnf.m3u8
 http://140.207.241.3:8080/live/program/live/jxwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金牌综艺
-http://39.134.66.110/PLTV/88888888/224/3221225525/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",武搏世界
-http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东北热剧
-http://39.134.115.163:8080/PLTV/88888910/224/3221226202/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影
-http://39.134.115.163:8080/PLTV/88888910/224/3221225764/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精品大剧
-http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精品大剧
-http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级电影
-http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级电视剧
-http://39.134.66.110/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级电视剧
-http://39.134.115.163:8080/PLTV/88888910/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级综艺
-http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级综艺
-http://39.134.115.163:8080/PLTV/88888910/224/3221225768/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",炫舞未来
-http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕视频
-http://39.134.115.163:8080/PLTV/88888910/224/3221226235/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",漫威宇宙电影
 http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",周星星粤语经典版
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
