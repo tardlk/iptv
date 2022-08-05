@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
+http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
+http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225918/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
+http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225963/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
+http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225898/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育
+http://[2409:8087:1070:301:2028::1c]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226290/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
+http://[2409:8087:1070:301:2028::1a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225663/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
+http://[2409:8087:1070:301:2028::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225965/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
+http://[2409:8087:1070:301:2028::1a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225897/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
+http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225966/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
+http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225919/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
+http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225917/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
+http://[2409:8087:1070:301:2028::1a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225867/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
+http://[2409:8087:1070:301:2028::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225915/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
+http://[2409:8087:1070:301:2028::2a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225957/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
+http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225916/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
+http://[2409:8087:1070:301:2028::22]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225866/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
+http://[2409:8087:1070:301:2028::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225977/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
+https://p.ggiptv.com/v/4k.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
+http://[2409:8087:1020:301:2026::11]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225727/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225909/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://[2409:8087:1070:301:2028::1c]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225912/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225906/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225913/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://[2409:8087:1070:301:2028::28]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225731/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://[2409:8087:1070:301:2026::25]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225908/index.m3u8?fmt=ts2hls
