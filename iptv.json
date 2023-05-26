@@ -1,16 +1,1 @@
-{
-  "lives": [
-    {
-      "name": "TXT",
-      "url": "https://ghproxy.com/https://github.com/tardlk/iptv/blob/main/iptv.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "core": {
-        "auth": "",
-        "name": "",
-        "pass": "",
-        "broker": ""
-      }
-    }
-  ]
-}
+
