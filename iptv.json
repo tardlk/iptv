@@ -2,20 +2,20 @@
   "lives": [
     {
       "name": "TXT",
-      "url": "https://ghproxy.com/https://github.com/tardlk/iptv/blob/main/iptv.txt",
+      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "IJK",
-      "url": "https://ghproxy.com/https://github.com/tardlk/iptv/blob/main/iptv.txt",
+      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1
     },
     {
       "name": "EXO",
-      "url": "https://ghproxy.com/https://github.com/tardlk/iptv/blob/main/iptv.txt",
+      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
