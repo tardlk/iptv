@@ -47,73 +47,65 @@ http://ott.mobaibox.com/PLTV/*/224/3221228680/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-Billiards" tvg-name="央视台球" tvg-logo="" group-title="中央电视台",央视台球
 http://ott.mobaibox.com/PLTV/*/224/3221228683/index.m3u8
 
-#EXTINF:-1 tvg-id="HunanTV" tvg-name="湖南卫视" tvg-logo="" group-title="省级卫视",湖南卫视
+#EXTINF:-1 tvg-id="HunanTV" tvg-name="湖南卫视" tvg-logo="" group-title="卫视",湖南卫视
 http://ott.mobaibox.com/PLTV/*/224/3221227735/index.m3u8
-#EXTINF:-1 tvg-id="JSTV" tvg-name="江苏卫视" tvg-logo="" group-title="省级卫视",江苏卫视
-http://ott.mobaibox.com/PLTV/*/224/3221228867/index.m3u8
-#EXTINF:-1 tvg-id="ZhejiangTV" tvg-name="浙江卫视" tvg-logo="" group-title="省级卫视",浙江卫视
+#EXTINF:-1 tvg-id="JSTV" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
+http://ott.mobaibox.com/PLTV/*/224/3221228861/index.m3u8
+#EXTINF:-1 tvg-id="ZhejiangTV" tvg-name="浙江卫视" tvg-logo="" group-title="卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228591/index.m3u8
-#EXTINF:-1 tvg-id="DragonTV" tvg-name="东方卫视" tvg-logo="" group-title="省级卫视",东方卫视
+#EXTINF:-1 tvg-id="DragonTV" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228150/index.m3u8
-#EXTINF:-1 tvg-id="BRTV" tvg-name="北京卫视" tvg-logo="" group-title="省级卫视",北京卫视
-http://ott.mobaibox.com/PLTV/*/224/3221228410/index.m3u8
-#EXTINF:-1 tvg-id="SDTV" tvg-name="山东卫视" tvg-logo="" group-title="省级卫视",山东卫视
+#EXTINF:-1 tvg-id="BRTV" tvg-name="北京卫视" tvg-logo="" group-title="卫视",北京卫视
+http://ott.mobaibox.com/PLTV/*/224/3221228890/index.m3u8
+#EXTINF:-1 tvg-id="SDTV" tvg-name="山东卫视" tvg-logo="" group-title="卫视",山东卫视
 http://ott.mobaibox.com/PLTV/*/224/3221227697/index.m3u8
-#EXTINF:-1 tvg-id="SCTV" tvg-name="四川卫视" tvg-logo="" group-title="省级卫视",四川卫视
+#EXTINF:-1 tvg-id="SCTV" tvg-name="四川卫视" tvg-logo="" group-title="卫视",四川卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228648/index.m3u8
-#EXTINF:-1 tvg-id="GDTV" tvg-name="广东卫视" tvg-logo="" group-title="省级卫视",广东卫视
-http://ott.mobaibox.com/PLTV/*/224/3221228312/index.m3u8
-#EXTINF:-1 tvg-id="HBTV" tvg-name="湖北卫视" tvg-logo="" group-title="省级卫视",湖北卫视
+#EXTINF:-1 tvg-id="GDTV" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视
+http://ott.mobaibox.com/PLTV/*/224/3221228838/index.m3u8
+#EXTINF:-1 tvg-id="HBTV" tvg-name="湖北卫视" tvg-logo="" group-title="卫视",湖北卫视
 http://ott.mobaibox.com/PLTV/*/224/3221227665/index.m3u8
-#EXTINF:-1 tvg-id="AHTV" tvg-name="安徽卫视" tvg-logo="" group-title="省级卫视",安徽卫视
+#EXTINF:-1 tvg-id="AHTV" tvg-name="安徽卫视" tvg-logo="" group-title="卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228645/index.m3u8
-#EXTINF:-1 tvg-id="TJTV" tvg-name="天津卫视" tvg-logo="" group-title="省级卫视",天津卫视
+#EXTINF:-1 tvg-id="TJTV" tvg-name="天津卫视" tvg-logo="" group-title="卫视",天津卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228239/index.m3u8
-#EXTINF:-1 tvg-id="CQTV" tvg-name="重庆卫视" tvg-logo="" group-title="省级卫视",重庆卫视
+#EXTINF:-1 tvg-id="CQTV" tvg-name="重庆卫视" tvg-logo="" group-title="卫视",重庆卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228651/index.m3u8
-#EXTINF:-1 tvg-id="HBTVCN" tvg-name="河北卫视" tvg-logo="" group-title="省级卫视",河北卫视
+#EXTINF:-1 tvg-id="HBTVCN" tvg-name="河北卫视" tvg-logo="" group-title="卫视",河北卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228752/index.m3u8
-#EXTINF:-1 tvg-id="LNTV" tvg-name="辽宁卫视" tvg-logo="" group-title="省级卫视",辽宁卫视
+#EXTINF:-1 tvg-id="LNTV" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视",辽宁卫视
 http://ott.mobaibox.com/PLTV/*/224/3221227700/index.m3u8
-#EXTINF:-1 tvg-id="JLTV" tvg-name="吉林卫视" tvg-logo="" group-title="省级卫视",吉林卫视
+#EXTINF:-1 tvg-id="JLTV" tvg-name="吉林卫视" tvg-logo="" group-title="卫视",吉林卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228130/index.m3u8
-#EXTINF:-1 tvg-id="HljTV" tvg-name="黑龙江卫视" tvg-logo="" group-title="省级卫视",黑龙江卫视
+#EXTINF:-1 tvg-id="HljTV" tvg-name="黑龙江卫视" tvg-logo="" group-title="卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228233/index.m3u8
-#EXTINF:-1 tvg-id="JXTV" tvg-name="江西卫视" tvg-logo="" group-title="省级卫视",江西卫视
+#EXTINF:-1 tvg-id="JXTV" tvg-name="江西卫视" tvg-logo="" group-title="卫视",江西卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228749/index.m3u8
-#EXTINF:-1 tvg-id="GXTV" tvg-name="广西卫视" tvg-logo="" group-title="省级卫视",广西卫视
+#EXTINF:-1 tvg-id="GXTV" tvg-name="广西卫视" tvg-logo="" group-title="卫视",广西卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228183/index.m3u8
-#EXTINF:-1 tvg-id="GZTV" tvg-name="贵州卫视" tvg-logo="" group-title="省级卫视",贵州卫视
+#EXTINF:-1 tvg-id="GZTV" tvg-name="贵州卫视" tvg-logo="" group-title="卫视",贵州卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228634/index.m3u8
-#EXTINF:-1 tvg-id="YNTV" tvg-name="云南卫视" tvg-logo="" group-title="省级卫视",云南卫视
+#EXTINF:-1 tvg-id="YNTV" tvg-name="云南卫视" tvg-logo="" group-title="卫视",云南卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228169/index.m3u8
-#EXTINF:-1 tvg-id="SXRTV" tvg-name="山西卫视" tvg-logo="" group-title="省级卫视",山西卫视
+#EXTINF:-1 tvg-id="SXRTV" tvg-name="山西卫视" tvg-logo="" group-title="卫视",山西卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228870/index.m3u8
-#EXTINF:-1 tvg-id="HNTV" tvg-name="河南卫视" tvg-logo="" group-title="省级卫视",河南卫视
+#EXTINF:-1 tvg-id="HNTV" tvg-name="河南卫视" tvg-logo="" group-title="卫视",河南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
-#EXTINF:-1 tvg-id="SETV" tvg-name="东南卫视" tvg-logo="" group-title="省级卫视",东南卫视
+#EXTINF:-1 tvg-id="SETV" tvg-name="东南卫视" tvg-logo="" group-title="卫视",东南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
-#EXTINF:-1 tvg-id="GSTV" tvg-name="甘肃卫视" tvg-logo="" group-title="省级卫视",甘肃卫视
+#EXTINF:-1 tvg-id="GSTV" tvg-name="甘肃卫视" tvg-logo="" group-title="卫视",甘肃卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228166/index.m3u8
-#EXTINF:-1 tvg-id="QHTV" tvg-name="青海卫视" tvg-logo="" group-title="省级卫视",青海卫视
+#EXTINF:-1 tvg-id="QHTV" tvg-name="青海卫视" tvg-logo="" group-title="卫视",青海卫视
 http://ott.mobaibox.com/PLTV/*/224/3221227554/index.m3u8
-#EXTINF:-1 tvg-id="XJTV" tvg-name="新疆卫视" tvg-logo="" group-title="省级卫视",新疆卫视
+#EXTINF:-1 tvg-id="XJTV" tvg-name="新疆卫视" tvg-logo="" group-title="卫视",新疆卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228290/index.m3u8
-#EXTINF:-1 tvg-id="XZTV" tvg-name="西藏卫视" tvg-logo="" group-title="省级卫视",西藏卫视
+#EXTINF:-1 tvg-id="XZTV" tvg-name="西藏卫视" tvg-logo="" group-title="卫视",西藏卫视
 http://ott.mobaibox.com/PLTV/*/224/3221226376/index.m3u8
-#EXTINF:-1 tvg-id="HNXYTV" tvg-name="海南卫视" tvg-logo="" group-title="省级卫视",海南卫视
+#EXTINF:-1 tvg-id="HNXYTV" tvg-name="海南卫视" tvg-logo="" group-title="卫视",海南卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228139/index.m3u8
-#EXTINF:-1 tvg-id="BingtuanTV" tvg-name="兵团卫视" tvg-logo="" group-title="省级卫视",兵团卫视
+#EXTINF:-1 tvg-id="BingtuanTV" tvg-name="兵团卫视" tvg-logo="" group-title="卫视",兵团卫视
 http://ott.mobaibox.com/PLTV/*/224/3221227025/index.m3u8
 
-#EXTINF:-1 tvg-id="XZTV1" tvg-name="徐州·1" tvg-logo="" group-title="地方频道",徐州·1
-http://ott.mobaibox.com/PLTV/*/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-id="XZTV2" tvg-name="徐州·2" tvg-logo="" group-title="地方频道",徐州·2
-http://ott.mobaibox.com/PLTV/*/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-id="XZTV3" tvg-name="徐州·3" tvg-logo="" group-title="地方频道",徐州·3
-http://ott.mobaibox.com/PLTV/*/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-id="XZTV4" tvg-name="徐州·4" tvg-logo="" group-title="地方频道",徐州·4
-http://ott.mobaibox.com/PLTV/*/224/3221225951/index.m3u8
 #EXTINF:-1 tvg-id="TSTV1" tvg-name="铜山1" tvg-logo="" group-title="地方频道",铜山1
 http://ott.mobaibox.com/PLTV/*/224/3221228152/index.m3u8
 #EXTINF:-1 tvg-id="TSTV2" tvg-name="铜山2" tvg-logo="" group-title="地方频道",铜山2
@@ -144,15 +136,7 @@ http://ott.mobaibox.com/PLTV/*/224/3221228914/index.m3u8
 http://ott.mobaibox.com/PLTV/*/224/3221228725/index.m3u8
 #EXTINF:-1 tvg-id="SYYTV" tvg-name="沭阳综合" tvg-logo="" group-title="地方频道",沭阳综合
 http://ott.mobaibox.com/PLTV/*/224/3221228812/index.m3u8
-#EXTINF:-1 tvg-id="SX" tvg-name="山西" tvg-logo="" group-title="地方频道",山西
-http://ott.mobaibox.com/PLTV/*/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-id="TJ" tvg-name="天津" tvg-logo="" group-title="地方频道",天津
-http://ott.mobaibox.com/PLTV/*/224/3221227407/index.m3u8
-#EXTINF:-1 tvg-id="HLJ" tvg-name="黑龙江" tvg-logo="" group-title="地方频道",黑龙江
-http://ott.mobaibox.com/PLTV/*/224/3221227638/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="" group-title="教育与少儿",CCTV14
-http://ott.mobaibox.com/PLTV/*/224/3221228636/index.m3u8
 #EXTINF:-1 tvg-id="NBSTV-Children" tvg-name="NBS 南京少儿" tvg-logo="" group-title="教育与少儿",NBS 南京少儿
 http://ott.mobaibox.com/PLTV/*/224/3221227733/index.m3u8
 #EXTINF:-1 tvg-id="JingCaiYouth" tvg-name="睛彩青少" tvg-logo="" group-title="教育与少儿",睛彩青少
@@ -179,8 +163,6 @@ http://ott.mobaibox.com/PLTV/*/224/3221228669/index.m3u8
 #EXTINF:-1 tvg-id="MovieEntertainment" tvg-name="影视娱乐" tvg-logo="" group-title="影视娱乐",影视娱乐
 http://ott.mobaibox.com/PLTV/*/224/3221228837/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="音乐",CCTV15
-http://ott.mobaibox.com/PLTV/*/224/3221228639/index.m3u8
 #EXTINF:-1 tvg-id="FengyunMusic" tvg-name="风云音乐" tvg-logo="" group-title="音乐",风云音乐
 http://ott.mobaibox.com/PLTV/*/224/3221228665/index.m3u8
 #EXTINF:-1 tvg-id="MiguMusic" tvg-name="咪咕音乐" tvg-logo="" group-title="音乐",咪咕音乐
@@ -188,10 +170,6 @@ http://ott.mobaibox.com/PLTV/*/224/3221228794/index.m3u8
 #EXTINF:-1 tvg-id="JingCaiSquareDance" tvg-name="睛彩广场舞" tvg-logo="" group-title="音乐",睛彩广场舞
 http://ott.mobaibox.com/PLTV/*/224/3221228818/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="体育",CCTV5
-http://ott.mobaibox.com/PLTV/*/224/3221228176/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="体育",CCTV5+
-http://ott.mobaibox.com/PLTV/*/224/3221228492/index.m3u8
 #EXTINF:-1 tvg-id="JiangsuSportsLeisure" tvg-name="江苏体育休闲" tvg-logo="" group-title="体育",江苏体育休闲
 http://ott.mobaibox.com/PLTV/*/224/3221228746/index.m3u8
 #EXTINF:-1 tvg-id="JingCaiBasketball" tvg-name="睛彩篮球" tvg-logo="" group-title="体育",睛彩篮球
@@ -205,8 +183,6 @@ http://ott.mobaibox.com/PLTV/*/224/3221228513/index.m3u8
 #EXTINF:-1 tvg-id="ArmsTech" tvg-name="兵器科技" tvg-logo="" group-title="体育",兵器科技
 http://ott.mobaibox.com/PLTV/*/224/3221228689/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="新闻",CCTV13
-http://ott.mobaibox.com/PLTV/*/224/3221228660/index.m3u8
 #EXTINF:-1 tvg-id="Information" tvg-name="资讯" tvg-logo="" group-title="新闻",资讯
 http://ott.mobaibox.com/PLTV/*/224/3221227712/index.m3u8
 #EXTINF:-1 tvg-id="NewsComprehensive" tvg-name="新闻综合" tvg-logo="" group-title="新闻",新闻综合
@@ -218,10 +194,7 @@ http://ott.mobaibox.com/PLTV/*/224/3221228811/index.m3u8
 #EXTINF:-1 tvg-id="NBS-Live" tvg-name="NBS Live南京" tvg-logo="" group-title="新闻",NBS Live南京
 http://ott.mobaibox.com/PLTV/*/224/3221228806/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="" group-title="纪录片",CCTV9
-http://ott.mobaibox.com/PLTV/*/224/3221228758/index.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="" group-title="纪录片",CCTV10
-http://ott.mobaibox.com/PLTV/*/224/3221228761/index.m3u8
+
 #EXTINF:-1 tvg-id="PremiumDocumentary" tvg-name="精品记录" tvg-logo="" group-title="纪录片",精品记录
 http://ott.mobaibox.com/PLTV/*/224/3221227547/index.m3u8
 #EXTINF:-1 tvg-id="NBS-CultureTravel" tvg-name="NBS文旅纪录" tvg-logo="" group-title="纪录片",NBS文旅纪录
