@@ -85,8 +85,10 @@ http://ott.mobaibox.com/PLTV/*/224/3221228634/index.m3u8
 http://ott.mobaibox.com/PLTV/*/224/3221228169/index.m3u8
 #EXTINF:-1 tvg-id="SXRTV" tvg-name="山西卫视" tvg-logo="" group-title="省级卫视",山西卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228870/index.m3u8
-#EXTINF:-1 tvg-id="NMRTV" tvg-name="三沙卫视" tvg-logo="" group-title="省级卫视",内蒙古卫视
-http://ott.mobaibox.com/PLTV/*/224/3221228626/index.m3u8
+#EXTINF:-1 tvg-id="HNTV" tvg-name="河南卫视" tvg-logo="" group-title="省级卫视",河南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
+#EXTINF:-1 tvg-id="SETV" tvg-name="东南卫视" tvg-logo="" group-title="省级卫视",东南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
 #EXTINF:-1 tvg-id="GSTV" tvg-name="甘肃卫视" tvg-logo="" group-title="省级卫视",甘肃卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228166/index.m3u8
 #EXTINF:-1 tvg-id="QHTV" tvg-name="青海卫视" tvg-logo="" group-title="省级卫视",青海卫视
