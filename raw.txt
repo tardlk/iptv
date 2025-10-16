@@ -26,7 +26,10 @@ CCTV-怀旧剧场,http://ott.mobaibox.com/PLTV/*/224/3221228671/index.m3u8
 CCTV-风云剧场,http://ott.mobaibox.com/PLTV/*/224/3221228662/index.m3u8
 CCTV-兵器科技,http://ott.mobaibox.com/PLTV/*/224/3221228689/index.m3u8
 CCTV-天元围棋,http://ott.mobaibox.com/PLTV/*/224/3221228513/index.m3u8
+CCTV-电视指南,http://ott.mobaibox.com/PLTV/4/224/3221228689/index.m3u8
+CCTV-央视文化精品,http://ott.mobaibox.com/PLTV/4/224/3221228677/index.m3u8
 CCTV-风云音乐,http://ott.mobaibox.com/PLTV/*/224/3221228665/index.m3u8
+CCTV-风云足球,http://ott.mobaibox.com/PLTV/4/224/3221228668/index.m3u8
 CCTV-高尔夫网球,http://ott.mobaibox.com/PLTV/*/224/3221228138/index.m3u8
 CCTV-台球,http://ott.mobaibox.com/PLTV/*/224/3221228683/index.m3u8
 
@@ -138,4 +141,5 @@ NBS 南京教科,http://ott.mobaibox.com/PLTV/*/224/3221227194/index.m3u8
 3221228785,http://ott.mobaibox.com/PLTV/*/224/3221228785/index.m3u8
 3221228451,http://ott.mobaibox.com/PLTV/*/224/3221228451/index.m3u8
 buming,http://ott.mobaibox.com/PLTV/*/224/3221228317/index.m3u8
+
 
