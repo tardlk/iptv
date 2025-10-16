@@ -69,6 +69,27 @@ CCTV-台球,http://ott.mobaibox.com/PLTV/*/224/3221228683/index.m3u8
 宁夏卫视(失效),http://ott.mobaibox.com/PLTV/*/224/3221225632/index.m3u8
 陕西卫视（失效）,http://ott.mobaibox.com/PLTV/*/224/3221225625/index.m3u8
 
+地方频道,#genre#
+铜山1,http://ott.mobaibox.com/PLTV/*/224/3221228152/index.m3u8
+铜山2,http://ott.mobaibox.com/PLTV/*/224/3221228081/index.m3u8
+铜山4,http://ott.mobaibox.com/PLTV/*/224/3221228249/index.m3u8
+盐城1,http://ott.mobaibox.com/PLTV/*/224/3221228435/index.m3u8
+盐城2,http://ott.mobaibox.com/PLTV/*/224/3221228433/index.m3u8
+盐城3,http://ott.mobaibox.com/PLTV/*/224/3221228436/index.m3u8
+泰州-2,http://ott.mobaibox.com/PLTV/*/224/3221228212/index.m3u8
+泰州3,http://ott.mobaibox.com/PLTV/*/224/3221228100/index.m3u8
+宿迁综合,http://ott.mobaibox.com/PLTV/*/224/3221226944/index.m3u8
+宿迁公共,http://ott.mobaibox.com/PLTV/*/224/3221226939/index.m3u8
+淮安公共,http://ott.mobaibox.com/PLTV/*/224/3221228840/index.m3u8
+无锡新闻综合,http://ott.mobaibox.com/PLTV/*/224/3221228853/index.m3u8
+无锡都市资讯,http://ott.mobaibox.com/PLTV/*/224/3221228914/index.m3u8
+灌南,http://ott.mobaibox.com/PLTV/*/224/3221228725/index.m3u8
+沭阳综合,http://ott.mobaibox.com/PLTV/*/224/3221228812/index.m3u8
+地方1,http://ott.mobaibox.com/PLTV/*/224/3221228451/index.m3u8
+地方2,http://ott.mobaibox.com/PLTV/*/224/3221228317/index.m3u8
+地方3,http://ott.mobaibox.com/PLTV/*/224/3221227325/index.m3u8
+地方4,http://ott.mobaibox.com/PLTV/*/224/3221228448/index.m3u8
+
 教育与少儿,#genre#
 NBS 南京少儿,http://ott.mobaibox.com/PLTV/*/224/3221227733/index.m3u8
 睛彩青少,http://ott.mobaibox.com/PLTV/*/224/3221228729/index.m3u8
@@ -81,6 +102,10 @@ CEN 早期教育,http://ott.mobaibox.com/PLTV/*/224/3221228692/index.m3u8
 家庭剧场,http://ott.mobaibox.com/PLTV/*/224/3221227600/index.m3u8
 韩剧,http://ott.mobaibox.com/PLTV/*/224/3221228669/index.m3u8
 影视娱乐,http://ott.mobaibox.com/PLTV/*/224/3221228837/index.m3u8
+韩剧2,http://ott.mobaibox.com/PLTV/*/224/3221228663/index.m3u8
+奥特曼,http://ott.mobaibox.com/PLTV/*/224/3221228456/index.m3u8
+庆余年,http://ott.mobaibox.com/PLTV/*/224/3221228465/index.m3u8
+电视剧,http://ott.mobaibox.com/PLTV/*/224/3221228785/index.m3u8
 
 音乐,#genre#
 咪咕音乐,http://ott.mobaibox.com/PLTV/*/224/3221228794/index.m3u8
@@ -92,6 +117,7 @@ CEN 早期教育,http://ott.mobaibox.com/PLTV/*/224/3221228692/index.m3u8
 睛彩竞技 SPORT,http://ott.mobaibox.com/PLTV/*/224/3221228206/index.m3u8
 
 新闻,#genre#
+AI直播,http://ott.mobaibox.com/PLTV/*/224/3221228873/index.m3u8
 资讯,http://ott.mobaibox.com/PLTV/*/224/3221227712/index.m3u8
 新闻综合,http://ott.mobaibox.com/PLTV/*/224/3221228462/index.m3u8
 LIVE直播香港台,http://ott.mobaibox.com/PLTV/*/224/3221228530/index.m3u8
@@ -111,6 +137,9 @@ NBS文旅纪录,http://ott.mobaibox.com/PLTV/*/224/3221227722/index.m3u8
 综合,http://ott.mobaibox.com/PLTV/*/224/3221228847/index.m3u8
 文娱,http://ott.mobaibox.com/PLTV/*/224/3221227739/index.m3u8
 
+购物,#genre#
+家有购物,http://ott.mobaibox.com/PLTV/*/224/3221228656/index.m3u8
+
 教育与专业,#genre#
 江苏教育,http://ott.mobaibox.com/PLTV/*/224/3221228613/index.m3u8
 NBS 南京教科,http://ott.mobaibox.com/PLTV/*/224/3221227194/index.m3u8
@@ -118,15 +147,3 @@ NBS 南京教科,http://ott.mobaibox.com/PLTV/*/224/3221227194/index.m3u8
 江苏新闻,http://ott.mobaibox.com/PLTV/*/224/3221228743/index.m3u8
 江苏综艺,http://ott.mobaibox.com/PLTV/*/224/3221228731/index.m3u8
 江苏影视,http://ott.mobaibox.com/PLTV/*/224/3221228728/index.m3u8
-
-其他,#genre#
-AI直播,http://ott.mobaibox.com/PLTV/*/224/3221228873/index.m3u8
-
-韩剧2,http://ott.mobaibox.com/PLTV/*/224/3221228663/index.m3u8
-奥特曼,http://ott.mobaibox.com/PLTV/*/224/3221228456/index.m3u8
-庆余年,http://ott.mobaibox.com/PLTV/*/224/3221228465/index.m3u8
-电视剧,http://ott.mobaibox.com/PLTV/*/224/3221228785/index.m3u8
-地方1,http://ott.mobaibox.com/PLTV/*/224/3221228451/index.m3u8
-地方2,http://ott.mobaibox.com/PLTV/*/224/3221228317/index.m3u8
-地方3,http://ott.mobaibox.com/PLTV/*/224/3221227325/index.m3u8
-地方4,http://ott.mobaibox.com/PLTV/*/224/3221228448/index.m3u8
