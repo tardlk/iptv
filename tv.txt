@@ -138,12 +138,45 @@ NBS文旅纪录,http://ott.mobaibox.com/PLTV/*/224/3221227722/index.m3u8
 综合,http://ott.mobaibox.com/PLTV/*/224/3221228847/index.m3u8
 文娱,http://ott.mobaibox.com/PLTV/*/224/3221227739/index.m3u8
 
-购物,#genre#
-家有购物,http://ott.mobaibox.com/PLTV/*/224/3221228656/index.m3u8
+其他,#genre#
+凤凰卫视香港,http://ott.mobaibox.com/PLTV/*/224/3221228530/index.m3u8
+凤凰卫视中文,http://ott.mobaibox.com/PLTV/*/224/3221228527/index.m3u8
+凤凰卫视资讯,http://ott.mobaibox.com/PLTV/*/224/3221228524/index.m3u8
+精品体育,http://ott.mobaibox.com/PLTV/*/224/3221227615/index.m3u8
+睛彩竞技,http://ott.mobaibox.com/PLTV/*/224/3221228679/index.m3u8
+睛彩篮球,http://ott.mobaibox.com/PLTV/*/224/3221228682/index.m3u8
+精品剧场,http://ott.mobaibox.com/PLTV/*/224/3221227618/index.m3u8
+江苏移动影视,http://ott.mobaibox.com/PLTV/*/224/3221227579/index.m3u8
+电影轮播,http://ott.mobaibox.com/PLTV/*/224/3221228644/index.m3u8
+乡村爱情故事,http://ott.mobaibox.com/PLTV/*/224/3221228582/index.m3u8
+奥特曼,http://ott.mobaibox.com/PLTV/*/224/3221228456/index.m3u8
+小猪佩奇,http://ott.mobaibox.com/PLTV/*/224/3221228460/index.m3u8
+超级飞侠,http://ott.mobaibox.com/PLTV/*/224/3221228539/index.m3u8
+动画轮播,http://ott.mobaibox.com/PLTV/*/224/3221228579/index.m3u8
+睛彩青少,http://ott.mobaibox.com/PLTV/*/224/3221228427/index.m3u8
+QQ音乐台,http://ott.mobaibox.com/PLTV/*/224/3221228641/index.m3u8
+MV频道,http://ott.mobaibox.com/PLTV/*/224/3221228815/index.m3u8
+睛彩广场舞,http://ott.mobaibox.com/PLTV/*/224/3221228231/index.m3u8
+潮妈辣婆,http://ott.mobaibox.com/PLTV/*/224/3221227527/index.m3u8
+NEWTV军事评论,http://ott.mobaibox.com/PLTV/*/224/3221227544/index.m3u8
+NewTV惊悚悬疑,http://ott.mobaibox.com/PLTV/*/224/3221227536/index.m3u8
+NewTV动作电影,http://ott.mobaibox.com/PLTV/*/224/3221227606/index.m3u8
+NEWTV精品萌宠,http://ott.mobaibox.com/PLTV/*/224/3221228430/index.m3u8
+NEWTV怡伴健康,http://ott.mobaibox.com/PLTV/*/224/3221227612/index.m3u8
+NEWTV农业致富,http://ott.mobaibox.com/PLTV/*/224/3221227588/index.m3u8
+NEWTV金牌综艺,http://ott.mobaibox.com/PLTV/*/224/3221227541/index.m3u8
+NEWTV炫舞未来,http://ott.mobaibox.com/PLTV/*/224/3221227475/index.m3u8
+NEWTV家庭剧场,http://ott.mobaibox.com/PLTV/*/224/3221227600/index.m3u8
+NEWTV明星大片,http://ott.mobaibox.com/PLTV/*/224/3221227594/index.m3u8
+爱情喜剧,http://ott.mobaibox.com/PLTV/*/224/3221227548/index.m3u8
+中国功夫,http://ott.mobaibox.com/PLTV/*/224/3221227530/index.m3u8
+军旅剧场,http://ott.mobaibox.com/PLTV/*/224/3221227603/index.m3u8
+古装剧场,http://ott.mobaibox.com/PLTV/*/224/3221227542/index.m3u8
 
 江苏频道,#genre#
 江苏城市,http://ott.mobaibox.com/PLTV/*/224/3221228734/index.m3u8
 江苏新闻,http://ott.mobaibox.com/PLTV/*/224/3221228743/index.m3u8
 江苏综艺,http://ott.mobaibox.com/PLTV/*/224/3221228731/index.m3u8
 江苏影视,http://ott.mobaibox.com/PLTV/*/224/3221228728/index.m3u8
+
 
