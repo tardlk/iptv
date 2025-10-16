@@ -120,16 +120,13 @@ NBS 南京教科,http://ott.mobaibox.com/PLTV/*/224/3221227194/index.m3u8
 江苏影视,http://ott.mobaibox.com/PLTV/*/224/3221228728/index.m3u8
 
 其他,#genre#
-3221228873,http://ott.mobaibox.com/PLTV/*/224/3221228873/index.m3u8
-3221227325,http://ott.mobaibox.com/PLTV/*/224/3221227325/index.m3u8
-3221228448,http://ott.mobaibox.com/PLTV/*/224/3221228448/index.m3u8
-3221228663,http://ott.mobaibox.com/PLTV/*/224/3221228663/index.m3u8
-3221228456,http://ott.mobaibox.com/PLTV/*/224/3221228456/index.m3u8
-3221228465,http://ott.mobaibox.com/PLTV/*/224/3221228465/index.m3u8
-3221228785,http://ott.mobaibox.com/PLTV/*/224/3221228785/index.m3u8
-3221228451,http://ott.mobaibox.com/PLTV/*/224/3221228451/index.m3u8
-buming,http://ott.mobaibox.com/PLTV/*/224/3221228317/index.m3u8
+AI直播,http://ott.mobaibox.com/PLTV/*/224/3221228873/index.m3u8
 
-
-
-
+韩剧2,http://ott.mobaibox.com/PLTV/*/224/3221228663/index.m3u8
+奥特曼,http://ott.mobaibox.com/PLTV/*/224/3221228456/index.m3u8
+庆余年,http://ott.mobaibox.com/PLTV/*/224/3221228465/index.m3u8
+电视剧,http://ott.mobaibox.com/PLTV/*/224/3221228785/index.m3u8
+地方1,http://ott.mobaibox.com/PLTV/*/224/3221228451/index.m3u8
+地方2,http://ott.mobaibox.com/PLTV/*/224/3221228317/index.m3u8
+地方3,http://ott.mobaibox.com/PLTV/*/224/3221227325/index.m3u8
+地方4,http://ott.mobaibox.com/PLTV/*/224/3221228448/index.m3u8
