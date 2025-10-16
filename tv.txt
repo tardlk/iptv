@@ -40,6 +40,7 @@ CCTV-台球,http://ott.mobaibox.com/PLTV/*/224/3221228683/index.m3u8
 东方卫视,http://ott.mobaibox.com/PLTV/*/224/3221228150/index.m3u8
 北京卫视,http://ott.mobaibox.com/PLTV/*/224/3221228890/index.m3u8
 山东卫视,http://ott.mobaibox.com/PLTV/*/224/3221227697/index.m3u8
+深圳卫视,http://ott.mobaibox.com/PLTV/*/224/3221228835/index.m3u8
 四川卫视,http://ott.mobaibox.com/PLTV/*/224/3221228648/index.m3u8
 广东卫视,http://ott.mobaibox.com/PLTV/*/224/3221228838/index.m3u8
 湖北卫视,http://ott.mobaibox.com/PLTV/*/224/3221227665/index.m3u8
@@ -61,6 +62,7 @@ CCTV-台球,http://ott.mobaibox.com/PLTV/*/224/3221228683/index.m3u8
 青海卫视,http://ott.mobaibox.com/PLTV/*/224/3221227554/index.m3u8
 新疆卫视,http://ott.mobaibox.com/PLTV/*/224/3221228290/index.m3u8
 西藏卫视,http://ott.mobaibox.com/PLTV/*/224/3221226376/index.m3u8
+内蒙古卫视,http://ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8
 海南卫视,http://ott.mobaibox.com/PLTV/*/224/3221228139/index.m3u8
 兵团卫视,http://ott.mobaibox.com/PLTV/*/224/3221227025/index.m3u8
 地方频道,#genre#
@@ -141,5 +143,6 @@ NBS 南京教科,http://ott.mobaibox.com/PLTV/*/224/3221227194/index.m3u8
 3221228785,http://ott.mobaibox.com/PLTV/*/224/3221228785/index.m3u8
 3221228451,http://ott.mobaibox.com/PLTV/*/224/3221228451/index.m3u8
 buming,http://ott.mobaibox.com/PLTV/*/224/3221228317/index.m3u8
+
 
 
