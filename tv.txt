@@ -56,18 +56,18 @@ CCTV-台球,http://ott.mobaibox.com/PLTV/*/224/3221228683/index.m3u8
 贵州卫视,http://ott.mobaibox.com/PLTV/*/224/3221228634/index.m3u8
 云南卫视,http://ott.mobaibox.com/PLTV/*/224/3221228169/index.m3u8
 山西卫视,http://ott.mobaibox.com/PLTV/*/224/3221228870/index.m3u8
-河南卫视,http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
-东南卫视,http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
+河南卫视,http://ott.mobaibox.com/PLTV/*/224/3221228221/index.m3u8
+东南卫视,http://ott.mobaibox.com/PLTV/*/224/3221227670/index.m3u8
 甘肃卫视,http://ott.mobaibox.com/PLTV/*/224/3221228166/index.m3u8
 青海卫视,http://ott.mobaibox.com/PLTV/*/224/3221227554/index.m3u8
 新疆卫视,http://ott.mobaibox.com/PLTV/*/224/3221228290/index.m3u8
 西藏卫视,http://ott.mobaibox.com/PLTV/*/224/3221226376/index.m3u8
-内蒙古卫视,http://ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8
 海南卫视,http://ott.mobaibox.com/PLTV/*/224/3221228139/index.m3u8
 兵团卫视,http://ott.mobaibox.com/PLTV/*/224/3221227025/index.m3u8
-三沙卫视,http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
-宁夏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-陕西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+三沙卫视,http://ott.mobaibox.com/PLTV/*/224/3221228626/index.m3u8
+内蒙古卫视,http://ott.mobaibox.com/PLTV/*/224/3221227557/index.m3u8
+宁夏卫视,http://ott.mobaibox.com/PLTV/*/224/3221225632/index.m3u8
+陕西卫视,http://ott.mobaibox.com/PLTV/*/224/3221225625/index.m3u8
 地方频道,#genre#
 铜山1,http://ott.mobaibox.com/PLTV/*/224/3221228152/index.m3u8
 铜山2,http://ott.mobaibox.com/PLTV/*/224/3221228081/index.m3u8
@@ -146,6 +146,7 @@ NBS 南京教科,http://ott.mobaibox.com/PLTV/*/224/3221227194/index.m3u8
 3221228785,http://ott.mobaibox.com/PLTV/*/224/3221228785/index.m3u8
 3221228451,http://ott.mobaibox.com/PLTV/*/224/3221228451/index.m3u8
 buming,http://ott.mobaibox.com/PLTV/*/224/3221228317/index.m3u8
+
 
 
 
