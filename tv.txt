@@ -94,35 +94,25 @@ NEWTV,#genre#
 睛彩篮球,http://ott.mobaibox.com/PLTV/*/224/3221228682/index.m3u8
 睛彩青少,http://ott.mobaibox.com/PLTV/*/224/3221228729/index.m3u8
 睛彩广场舞,http://ott.mobaibox.com/PLTV/*/224/3221228818/index.m3u8
-地方频道,#genre#
-铜山1（徐州）,http://ott.mobaibox.com/PLTV/*/224/3221228152/index.m3u8
-铜山2（徐州）,http://ott.mobaibox.com/PLTV/*/224/3221228081/index.m3u8
-铜山4（徐州）,http://ott.mobaibox.com/PLTV/*/224/3221228249/index.m3u8
-盐城1,http://ott.mobaibox.com/PLTV/*/224/3221228435/index.m3u8
-盐城2,http://ott.mobaibox.com/PLTV/*/224/3221228433/index.m3u8
-盐城3,http://ott.mobaibox.com/PLTV/*/224/3221228436/index.m3u8
-泰州2,http://ott.mobaibox.com/PLTV/*/224/3221228212/index.m3u8
-泰州3,http://ott.mobaibox.com/PLTV/*/224/3221228100/index.m3u8
-宿迁综合,http://ott.mobaibox.com/PLTV/*/224/3221226944/index.m3u8
-宿迁公共,http://ott.mobaibox.com/PLTV/*/224/3221226939/index.m3u8
-淮安公共,http://ott.mobaibox.com/PLTV/*/224/3221228840/index.m3u8
-无锡新闻综合,http://ott.mobaibox.com/PLTV/*/224/3221228853/index.m3u8
-无锡都市资讯,http://ott.mobaibox.com/PLTV/*/224/3221228914/index.m3u8
-灌南,http://ott.mobaibox.com/PLTV/*/224/3221228725/index.m3u8
-沭阳综合,http://ott.mobaibox.com/PLTV/*/224/3221228812/index.m3u8
-徐州文旅,http://ott.mobaibox.com/PLTV/*/224/3221228451/index.m3u8
-徐州教育,http://ott.mobaibox.com/PLTV/*/224/3221228317/index.m3u8
-宿迁文旅,http://ott.mobaibox.com/PLTV/*/224/3221227325/index.m3u8
-盐城文旅,http://ott.mobaibox.com/PLTV/*/224/3221228448/index.m3u8
 
-教育,#genre#
-南京少儿（NBS）,http://ott.mobaibox.com/PLTV/*/224/3221227733/index.m3u8
+
+南京,#genre#
+南京少儿,http://ott.mobaibox.com/PLTV/*/224/3221227733/index.m3u8
+南京直播（NBS）,http://ott.mobaibox.com/PLTV/*/224/3221228806/index.m3u8
+南京教科（NBS）,http://ott.mobaibox.com/PLTV/*/224/3221227194/index.m3u8
+南京直播（NBS）,http://ott.mobaibox.com/PLTV/*/224/3221228806/index.m3u8
+
+江苏频道,#genre#
+江苏城市,http://ott.mobaibox.com/PLTV/*/224/3221228734/index.m3u8
+江苏新闻,http://ott.mobaibox.com/PLTV/*/224/3221228743/index.m3u8
+江苏综艺,http://ott.mobaibox.com/PLTV/*/224/3221228731/index.m3u8
+江苏影视,http://ott.mobaibox.com/PLTV/*/224/3221228728/index.m3u8
+江苏移动影视,http://ott.mobaibox.com/PLTV/*/224/3221227579/index.m3u8
 
 CETV1,http://ott.mobaibox.com/PLTV/*/224/3221225909/index.m3u8
 CEN 早期教育,http://ott.mobaibox.com/PLTV/*/224/3221228692/index.m3u8
 北京纪实科教,http://ott.mobaibox.com/PLTV/*/224/3221228755/index.m3u8
 江苏教育,http://ott.mobaibox.com/PLTV/*/224/3221228613/index.m3u8
-南京教科（NBS）,http://ott.mobaibox.com/PLTV/*/224/3221227194/index.m3u8
 
 影视娱乐,#genre#
 古装剧场,http://ott.mobaibox.com/PLTV/*/224/3221227542/index.m3u8
@@ -146,7 +136,7 @@ CEN 早期教育,http://ott.mobaibox.com/PLTV/*/224/3221228692/index.m3u8
 新闻综合,http://ott.mobaibox.com/PLTV/*/224/3221228462/index.m3u8
 LIVE直播香港台,http://ott.mobaibox.com/PLTV/*/224/3221228530/index.m3u8
 CGTN,http://ott.mobaibox.com/PLTV/*/224/3221228811/index.m3u8
-南京直播（NBS）,http://ott.mobaibox.com/PLTV/*/224/3221228806/index.m3u8
+
 AI直播（测试）,http://ott.mobaibox.com/PLTV/*/224/3221228873/index.m3u8
 
 纪录片,#genre#
@@ -165,26 +155,15 @@ NBS文旅纪录,http://ott.mobaibox.com/PLTV/*/224/3221227722/index.m3u8
 
 
 其他,#genre#
-江苏移动影视,http://ott.mobaibox.com/PLTV/*/224/3221227579/index.m3u8
+
 电影轮播,http://ott.mobaibox.com/PLTV/*/224/3221228644/index.m3u8
 乡村爱情故事,http://ott.mobaibox.com/PLTV/*/224/3221228582/index.m3u8
 奥特曼,http://ott.mobaibox.com/PLTV/*/224/3221228456/index.m3u8
 小猪佩奇,http://ott.mobaibox.com/PLTV/*/224/3221228460/index.m3u8
 超级飞侠,http://ott.mobaibox.com/PLTV/*/224/3221228539/index.m3u8
 动画轮播,http://ott.mobaibox.com/PLTV/*/224/3221228579/index.m3u8
-
 QQ音乐台,http://ott.mobaibox.com/PLTV/*/224/3221228641/index.m3u8
 MV频道,http://ott.mobaibox.com/PLTV/*/224/3221228815/index.m3u8
-
 军旅剧场,http://ott.mobaibox.com/PLTV/*/224/3221227603/index.m3u8
 古装剧场,http://ott.mobaibox.com/PLTV/*/224/3221227542/index.m3u8
-
-江苏频道,#genre#
-江苏城市,http://ott.mobaibox.com/PLTV/*/224/3221228734/index.m3u8
-江苏新闻,http://ott.mobaibox.com/PLTV/*/224/3221228743/index.m3u8
-江苏综艺,http://ott.mobaibox.com/PLTV/*/224/3221228731/index.m3u8
-江苏影视,http://ott.mobaibox.com/PLTV/*/224/3221228728/index.m3u8
-
-
-
 
