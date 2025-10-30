@@ -210,4 +210,50 @@ http://ott.mobaibox.com/PLTV/*/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://ott.mobaibox.com/PLTV/*/224/3221225625/index.m3u8
 
+#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="精品体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV精品体育.png" group-title="NEWTV",精品体育
+http://ott.mobaibox.com/PLTV/*/224/3221227615/index.m3u8
 
+#EXTINF:-1 tvg-id="NEWTV精品剧场" tvg-name="精品剧场" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV精品剧场.png" group-title="NEWTV",精品剧场
+http://ott.mobaibox.com/PLTV/*/224/3221227618/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV潮妈辣婆.png" group-title="NEWTV",潮妈辣婆
+http://ott.mobaibox.com/PLTV/*/224/3221227527/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="军事评论" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV军事评论.png" group-title="NEWTV",军事评论
+http://ott.mobaibox.com/PLTV/*/224/3221227544/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV惊悚悬疑.png" group-title="NEWTV",惊悚悬疑
+http://ott.mobaibox.com/PLTV/*/224/3221227536/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="动作电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV动作电影.png" group-title="NEWTV",动作电影
+http://ott.mobaibox.com/PLTV/*/224/3221227606/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="精品萌宠" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV精品萌宠.png" group-title="NEWTV",精品萌宠
+http://ott.mobaibox.com/PLTV/*/224/3221228430/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV怡伴健康" tvg-name="怡伴健康" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV怡伴健康.png" group-title="NEWTV",怡伴健康
+http://ott.mobaibox.com/PLTV/*/224/3221227612/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV农业致富" tvg-name="农业致富" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV农业致富.png" group-title="NEWTV",农业致富
+http://ott.mobaibox.com/PLTV/*/224/3221227588/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="金牌综艺" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV金牌综艺.png" group-title="NEWTV",金牌综艺
+http://ott.mobaibox.com/PLTV/*/224/3221227541/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="炫舞未来" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV炫舞未来.png" group-title="NEWTV",炫舞未来
+http://ott.mobaibox.com/PLTV/*/224/3221227475/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="家庭剧场" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV家庭剧场.png" group-title="NEWTV",家庭剧场
+http://ott.mobaibox.com/PLTV/*/224/3221227600/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV明星大片" tvg-name="明星大片" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV明星大片.png" group-title="NEWTV",明星大片
+http://ott.mobaibox.com/PLTV/*/224/3221227594/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV爱情喜剧.png" group-title="NEWTV",爱情喜剧
+http://ott.mobaibox.com/PLTV/*/224/3221227548/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="中国功夫" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV中国功夫.png" group-title="NEWTV",中国功夫
+http://ott.mobaibox.com/PLTV/*/224/3221227530/index.m3u8
+
+#EXTINF:-1 tvg-id="NEWTV精品记录" tvg-name="精品记录" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV精品记录.png" group-title="NEWTV",精品记录
+http://ott.mobaibox.com/PLTV/*/224/3221227547/index.m3u8
