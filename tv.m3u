@@ -84,7 +84,7 @@ http://ott.mobaibox.com/PLTV/*/224/3221228513/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-电视指南" tvg-name="CCTV-电视指南" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/电视指南.png" group-title="央视频道",CCTV-电视指南
 http://ott.mobaibox.com/PLTV/4/224/3221228689/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-name="CCTV-央视文化精品" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/央视文化精品.png" group-title="央视频道",CCTV-央视文化精品
+#EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-name="CCTV-央视文化精品" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/文化精品.png" group-title="央视频道",CCTV-央视文化精品
 http://ott.mobaibox.com/PLTV/4/224/3221228677/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV-风云音乐" tvg-name="CCTV-风云音乐" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/风云音乐.png" group-title="央视频道",CCTV-风云音乐
@@ -96,7 +96,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228668/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-高尔夫网球" tvg-name="CCTV-高尔夫网球" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/高尔夫网球.png" group-title="央视频道",CCTV-高尔夫网球
 http://ott.mobaibox.com/PLTV/*/224/3221228138/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV-台球" tvg-name="CCTV-台球" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/台球.png" group-title="央视频道",CCTV-台球
+#EXTINF:-1 tvg-id="CCTV-台球" tvg-name="CCTV-台球" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/央视台球.png" group-title="央视频道",CCTV-台球
 http://ott.mobaibox.com/PLTV/*/224/3221228683/index.m3u8
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
