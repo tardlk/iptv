@@ -55,7 +55,7 @@ http://ott.mobaibox.com/PLTV/*/224/3221228689/index.m3u8
 http://ott.mobaibox.com/PLTV/*/224/3221228513/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-电视指南" tvg-logo="https://gh-proxy.com/https://github.com/tardlk/iptv/raw/main/tv/电视指南.png" group-title="央视频道",CCTV-电视指南
 http://ott.mobaibox.com/PLTV/4/224/3221228689/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-央视文化精品" tvg-logo="https://gh-proxy.com/https://github.com/tardlk/iptv/raw/main/tv/央视文化精品.png" group-title="央视频道",CCTV-央视文化精品
+#EXTINF:-1 tvg-name="CCTV-央视文化精品" tvg-logo="https://gh-proxy.com/https://github.com/tardlk/iptv/raw/main/tv/文化精品.png" group-title="央视频道",CCTV-央视文化精品
 http://ott.mobaibox.com/PLTV/4/224/3221228677/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云音乐" tvg-logo="https://gh-proxy.com/https://github.com/tardlk/iptv/raw/main/tv/风云音乐.png" group-title="央视频道",CCTV-风云音乐
 http://ott.mobaibox.com/PLTV/*/224/3221228665/index.m3u8
