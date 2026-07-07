@@ -175,8 +175,6 @@ http://ott.mobaibox.com/PLTV/*/224/3221227588/index.m3u8
 http://ott.mobaibox.com/PLTV/*/224/3221227618/index.m3u8
 #EXTINF:-1 tvg-name="超级飞侠" tvg-logo="https://gh-proxy.com/https://github.com/tardlk/iptv/raw/main/tv/超级飞侠.png" group-title="轮播",超级飞侠
 http://ott.mobaibox.com/PLTV/4/224/3221228539/index.m3u8
-#EXTINF:-1 tvg-name="广场舞" tvg-logo="https://gh-proxy.com/https://github.com/tardlk/iptv/raw/main/tv/广场舞.png" group-title="轮播",广场舞
-http://ott.mobaibox.com/PLTV/4/224/3221228635/index.m3u8
 #EXTINF:-1 tvg-name="小猪佩奇" tvg-logo="https://gh-proxy.com/https://github.com/tardlk/iptv/raw/main/tv/小猪佩奇.png" group-title="轮播",小猪佩奇
 http://ott.mobaibox.com/PLTV/4/224/3221228460/index.m3u8
 #EXTINF:-1 tvg-name="猎冰" tvg-logo="https://gh-proxy.com/https://github.com/tardlk/iptv/raw/main/tv/猎冰.png" group-title="轮播",猎冰
